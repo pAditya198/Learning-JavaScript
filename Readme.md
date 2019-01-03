@@ -25,3 +25,6 @@
 - #### Reload to activate.
 
 ## How to Compile JS file in VScode
+- #### Save your file.
+- #### ctrl + ` ( To open console ).
+- #### node filename.js ( compiles and program ).
