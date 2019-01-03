@@ -28,3 +28,8 @@
 - #### Save your file.
 - #### ctrl + ` ( To open console ).
 - #### node filename.js ( compiles and program ).
+
+
+### For Docs reffer to 
+
+#### MDN :link:[(open)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
