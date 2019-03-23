@@ -32,4 +32,4 @@
 
 ### For Docs reffer to [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-This Series of code will be really helpful while learning JavaScript From <H2>[Hitesh Chaudhary](https://courses.learncodeonline.in/)</H2>
+This Series of code will be really helpful while learning JavaScript From [Hitesh Chaudhary](https://courses.learncodeonline.in/)
